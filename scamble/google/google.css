@@ -1,0 +1,21 @@
+body{
+    background: chocolate;
+}
+
+
+div{
+    margin-top: 200px;
+}
+
+input{
+    width: 400px;
+    display: block;
+
+}
+
+img{
+    
+    width: 300px;
+    display: block;
+
+}
